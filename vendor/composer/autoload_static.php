@@ -21,6 +21,7 @@ class ComposerStaticInita74657ab8117eedbacdd952bb93e8853
     );
 
     public static $classMap = array (
+        'Afishpapa\\Httptool\\Http' => __DIR__ . '/../..' . '/src/Http.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
     );
 
