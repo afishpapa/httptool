@@ -1,0 +1,19 @@
+{
+    "name": "afishpapa/httptool",
+    "description": "simple httptool",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Afishpapa\\Httptool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "afishpapa",
+            "email": "xxx.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
