@@ -1,6 +1,6 @@
 {
     "name": "afishpapa/httptool",
-    "description": "simple httptool",
+    "description": "a simple tool",
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -10,10 +10,9 @@
     },
     "authors": [
         {
-            "name": "afishpapa",
+            "name": "laoxie",
             "email": "116265858@qq.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
